@@ -48,8 +48,8 @@ public class Main {
 
         //boolean 1: true if map input is by full map paste
         //boolean 2: true to avoid adding random items
-        Scanner sc = new Scanner(System.in);
-        Generator.generate(sc, true, false, 100, 8, 8);
+        //Scanner sc = new Scanner(System.in);
+        Generator.generate(null, true, false, 100, 8, 8);
         // arg0: sc for template input, null for blank or template (batch mode)
         // arg1: true for graphical template paste, false for old style
         // arg2: false for random items, true to disable
