@@ -12,8 +12,6 @@ import java.util.*;
  * @author kenschiller
  */
 public class Main2 {
-
-    //Name: something about circuit?
     
     //Input: Map display
     //Output: Map with solution and estimated difficulty
