@@ -16,12 +16,12 @@ public class Main2 {
     //Input: Map display
     //Output: Map with solution and estimated difficulty
 
-    /**
-     * @param args the command line arguments
-     */
     public static void println(String s) {
         System.out.println(s);
     }
+    /**
+     * @param args the command line arguments
+     */
     public static void main(String[] args) {
         
         Scanner sc = new Scanner(System.in);
